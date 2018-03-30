@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{26FF91C3-AF55-4367-B55F-2EA734F82D2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticConstructor", "Test\StaticConstructor.csproj", "{26FF91C3-AF55-4367-B55F-2EA734F82D2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
